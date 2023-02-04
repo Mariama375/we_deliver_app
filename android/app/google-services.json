@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "622039785952",
+    "project_id": "we-deliver-app-15f77",
+    "storage_bucket": "we-deliver-app-15f77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622039785952:android:1c274d6613b0c3c3eb4b85",
+        "android_client_info": {
+          "package_name": "com.example.we_deliver_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622039785952-8c1chrct4thqai96apngbtb65cpprpu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLQ4JHIZ0RatMAhiIUAfbTe6VDKHoMDeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622039785952-8c1chrct4thqai96apngbtb65cpprpu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
